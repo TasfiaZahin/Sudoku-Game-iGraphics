@@ -1,1 +1,1 @@
-# Sudoku-Game-igraphics
+# Sudoku-Game-iGraphics
