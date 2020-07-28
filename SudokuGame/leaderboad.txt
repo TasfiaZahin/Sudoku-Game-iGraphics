@@ -1,0 +1,10 @@
+mumina 100
+tasfia 67
+saad 45
+redu 89
+xxx 23
+yyy 45
+zzz 76
+ooo 98
+qwerty 45
+ddd 56

@@ -1,0 +1,17 @@
+﻿Build started 12/23/2015 11:38:07 AM.
+     1>Project "D:\Level 1 Term 2\inefficient_iGraphics\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         IGraphics.vcxproj -> D:\Level 1 Term 2\inefficient_iGraphics\Debug\IGraphics.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\IGraphics.unsuccessfulbuild".
+         Touching "Debug\IGraphics.lastbuildstate".
+     1>Done Building Project "D:\Level 1 Term 2\inefficient_iGraphics\IGraphics\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
